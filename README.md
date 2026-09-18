@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niranjan</h1>
-<h3 align="center">Aspiring Data Analyst & Data Engineer | CS Undergrad @ RGUKT Ongole</h3>
+<h3 align="center">Aspiring Data Analyst & Data Engineer | CS Undergraduate @ RGUKT Ongole</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/niranjanvere"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
